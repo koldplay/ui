@@ -1,0 +1,44 @@
+@import "variables";
+
+// //changes for navbar
+// $navbar-default-color:             #fff !default;
+// $navbar-default-bg:                #000 !default;
+// $navbar-default-border:            #e7e7e7 !default;
+
+
+// //=== Light navbar
+// // Reset Light navbar basics
+// $navbar-light-color:                      lighten($gray-light, 15%) !default;
+// $navbar-light-bg:                         #ff5722 !default;
+// $navbar-light-border:                     lighten($navbar-light-bg, 10%) !default;
+
+// // Inverted navbar links
+// $navbar-light-link-color:                 lighten($gray-light, 15%) !default;
+// $navbar-light-link-hover-color:           #fff !default;
+// $navbar-light-link-hover-bg:              transparent !default;
+// $navbar-light-link-active-color:          $navbar-light-link-hover-color !default;
+// $navbar-light-link-active-bg:             darken($navbar-light-bg, 10%) !default;
+// $navbar-light-link-disabled-color:        #444 !default;
+// $navbar-light-link-disabled-bg:           transparent !default;
+
+// // Inverted navbar brand label
+// $navbar-light-brand-color:                $navbar-light-link-color !default;
+// $navbar-light-brand-hover-color:          #fff !default;
+// $navbar-light-brand-hover-bg:             transparent !default;
+
+// // Inverted navbar toggle
+// $navbar-light-toggle-hover-bg:            #333 !default;
+// $navbar-light-toggle-icon-bar-bg:         #fff !default;
+// $navbar-light-toggle-border-color:        #333 !default;
+
+
+//button realted updates starts //
+
+$brand-primary:         darken(#009688, 6.5%) !default; // #337ab7
+$brand-success:         darken(#4caf50, 6.5%)!default;
+$brand-info:            #03a9f4 !default;
+$brand-warning:         #ff5722 !default;
+$brand-danger:          #ed5565 !default;
+
+
+//button related updates ends  //
