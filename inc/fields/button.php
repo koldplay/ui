@@ -267,32 +267,32 @@
    				Button DropDown
    			</div>
    			<div class="row">
-   				<div class="col-md-12">
-   					<button class="btn dropdown-toggle" data-toggle="dropdown" type="button">Normal
+   				<div class="col-md-12 btn-group">
+   					<button class="btn dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown" type="button">Normal
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
-   						<li><a href="">Seperated Link</a></li>
+   						<li><a href="javascript:void(0)">Seperated Link</a></li>
    					</ul>
    					<button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">Default
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
-   						<li><a href="">Seperated Link</a></li>
+   						<li><a href="javascript:void(0)">Seperated Link</a></li>
    					</ul>
    					</button>
    					<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" type="button">Primary
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
    						<li><a href="">Seperated Link</a></li>
    					</ul>
@@ -300,9 +300,9 @@
    					<button class="btn btn-success dropdown-toggle" data-toggle="dropdown" type="button">Success
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
    						<li><a href="">Seperated Link</a></li>
    					</ul>
@@ -310,9 +310,9 @@
    					<button class="btn btn-info dropdown-toggle" data-toggle="dropdown" type="button">Info
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
    						<li><a href="">Seperated Link</a></li>
    					</ul>
@@ -320,9 +320,9 @@
    					<button class="btn btn-warning dropdown-toggle" data-toggle="dropdown" type="button">Warning
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
    						<li><a href="">Seperated Link</a></li>
    					</ul>
@@ -330,9 +330,9 @@
    					<button class="btn btn-danger dropdown-toggle" data-toggle="dropdown" type="button">Danger
    					<span class="caret"></span>
    					<ul class="dropdown-menu" role="menu">
-   						<li><a href="#">Action</a></li>
-   						<li><a href="#">Another Action</a></li>
-   						<li><a href="#">Some Thing Else Here</a></li>
+   						<li><a href="javascript:void(0)">Action</a></li>
+   						<li><a href="javascript:void(0)">Another Action</a></li>
+   						<li><a href="javascript:void(0)">Some Thing Else Here</a></li>
    						<li class="divider"></li>
    						<li><a href="">Seperated Link</a></li>
    					</ul>
@@ -343,11 +343,11 @@
                   <button class="btn btn-normal dropdown-toggle" data-toggle="dropdown" type="button">
                   Normal<span class="caret"></span>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul>
                   </button>
                   </div>
@@ -355,11 +355,11 @@
                   <div class="btn-group">
                   <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">Default<span class="caret"></span>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul>  
                   </button>
                   </div>
@@ -367,11 +367,11 @@
                   <div class="btn-group">
                   <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" type="button">Primary<span class="caret"></span>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul>  
                   </button>
                   </div>
@@ -379,11 +379,11 @@
                   <div class="btn-group">
                   <button class="btn btn-success dropdown-toggle" data-toggle="dropdown" type="button">Success<span class="caret"></span>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul>
                   </button>
                   </div>
@@ -392,11 +392,11 @@
                   <button class="btn btn-info dropdown-toggle" data-toggle="dropdown" type="button">Info
                   <span class="caret"></span>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul> 
                   </button>
                   </div>
@@ -404,11 +404,11 @@
                   <div class="btn-group">
                   <button class="btn btn-warning dropdown-toggle" data-toggle="dropdown" type="button">Warning<span class="caret"></span>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul>
                   </button>
                   </div>
@@ -416,11 +416,11 @@
                   <div class="btn-group">
                   <button class="btn btn-danger" type="button">Danger</button><button data-toggle="dropdown"><span class="caret"></span></button>
                   <ul class="dropdown-menu" role="menu">
-                     <li><a href="#">Action</a></li>
-                     <li><a href="#">Another Action</a></li>
-                     <li><a href="#">Some Thing Else  Here</a></li>
+                     <li><a href="javascript:void(0)">Action</a></li>
+                     <li><a href="javascript:void(0)">Another Action</a></li>
+                     <li><a href="javascript:void(0)">Some Thing Else  Here</a></li>
                      <li class="divider"></li>
-                     <li><a href="#">Seperated Link</a></li>
+                     <li><a href="javascript:void(0)">Seperated Link</a></li>
                   </ul>
                   
                   </div>   

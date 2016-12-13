@@ -58,10 +58,7 @@
 			<div class="col-sm-10">
 			<?php include 'inc/fields/navbar.php';?>
 			<?php include 'inc/fields/button.php'; ?>   
-			  <div id="section3">         
-			    <h1>Section 3</h1>
-			    <p>Try to scroll this section and look at the navigation list while scrolling!</p>
-			  </div>
+			<?php include 'inc/fields/label.php';?> 
 			  <div id="section41">         
 			    <h1>Section 4-1</h1>
 			    <p>Try to scroll this section and look at the navigation list while scrolling!</p>
