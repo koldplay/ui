@@ -20,7 +20,8 @@
 		
 	
   		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  		<script type="text/javascript" src="js/ripple.js"></script>
+  		<script type="text/javascript" src="css/output/ripple.js"></script>
+  		
 
   		<script >
   			$(document).ready(function() {
@@ -44,3 +45,8 @@
   			})
 
   		</script>
+  		<script>
+			$(document).ready(function(){
+			    $('[data-toggle="tooltip"]').tooltip();   
+			});
+		</script>

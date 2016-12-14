@@ -42,3 +42,35 @@ $brand-danger:          #ed5565 !default;
 
 
 //button related updates ends  //
+
+
+.example
+{
+  margin-bottom:  20px;
+}
+
+.blank
+{
+  display: none;
+}
+
+.example .example-title {
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    text-shadow: 2px 2px 2px rgba(255,255,255,1);
+}
+
+button.btn.space
+{
+	margin-bottom : 8px;
+}
+
+$popover-bg: #434a54 !default;
+$popover-color: #fff !default; 
+
+
+.well
+{
+  background-color: #fff;
+}

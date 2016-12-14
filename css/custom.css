@@ -40,7 +40,7 @@ body
   #section42 {color: #000; background-color: #eee; }
   
   @media screen and (max-width: 810px) {
-    #section1, #section2, #section3, #section41, #section42  {
+    #section1, #section2, #section3,#section5,#section6, #section41, #section42  {
         margin-left: 150px;
     }
   }

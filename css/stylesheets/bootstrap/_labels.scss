@@ -12,7 +12,7 @@
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
-  border-radius: .25em;
+// border-radius: .25em;//update  
 
   // [converter] extracted a& to a.label
 
@@ -64,3 +64,6 @@ a.label {
 .label-danger {
   @include label-variant($label-danger-bg);
 }
+
+
+//update

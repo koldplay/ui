@@ -46,6 +46,9 @@
 			    <li class="active"><a href="#section1">Navbar</a></li>
 			    <li><a href="#section2">Button</a></li>
 			    <li><a href="#section3">Section 3</a></li>
+			    <li><a href="#section4">Section 4</a></li>
+			    <li><a href="#section5">Section 5</a></li>
+			    <li><a href="#section6">Section 6</a></li>
 			    <li class="dropdown">
 			      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
 			      <ul class="dropdown-menu">
@@ -59,10 +62,10 @@
 			<?php include 'inc/fields/navbar.php';?>
 			<?php include 'inc/fields/button.php'; ?>   
 			<?php include 'inc/fields/label.php';?> 
-			  <div id="section41">         
-			    <h1>Section 4-1</h1>
-			    <p>Try to scroll this section and look at the navigation list while scrolling!</p>
-			  </div>      
+			<?php include 'inc/fields/form.php'; ?>
+			<?php include 'inc/fields/dialogbox.php'; ?>
+			<?php include 'inc/fields/table.php'; ?>
+ 
 			  <div id="section42">         
 			    <h1>Section 4-2</h1>
 			    <p>Try to scroll this section and look at the navigation list while scrolling!</p>
